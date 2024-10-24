@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on frontend and backend technologies.
 - 🌱 I’m currently learning node.js, javascript, java, springboot.
 - 📫 How to reach me: mrtkcu0101@gmail.com
-- ⚡ Fun fact: I'm an avid gamer.
+  
 
